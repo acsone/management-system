@@ -18,6 +18,7 @@
         'security/mgmtsystem_review_security.xml',
         'data/ir_sequence.xml',
         'views/mgmtsystem_review.xml',
+        'views/res_users.xml',
         'report/review.xml',
         'report/report.xml',
     ],
